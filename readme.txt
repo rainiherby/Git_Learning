@@ -10,4 +10,5 @@ Git has a mutable index called stage.
 Git trade changes of files.
 
 add one line
+add two line
 
