@@ -12,3 +12,4 @@ Git trade changes of files.
 add one line
 add two line
 add three line
+add 4 line
